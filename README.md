@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Docker, React, NodeJs
 - ⚡ Fun fact: plant lover
 
-[![Mari Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
+[![Mari's Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacamposs&layout=compact&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
+[![Mari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariacamposs&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
 
 <!--
 **MariaCamposs/MariaCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
