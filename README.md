@@ -1,4 +1,17 @@
-### Hi there 👋
+<h2> Hi, I'm Mari Campos 👋</h2>
+
+<p><em>Front-end Developer at <a href="https://www.laboratoria.la/"> Laboratoria </a></br>Bachelor of Systems Engineering at UNDC</em></p>
+
+[![Linkedin: MariaCamposS](https://img.shields.io/badge/-SoniaSayago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacamposs/)](https://www.linkedin.com/in/mariacamposs/)
+
+- 🔭 I’m currently working on JavaScript, HTML, CSS
+- 🌱 I’m currently learning Docker, React, NodeJs
+- ⚡ Fun fact: plant lover
+
+[![Mari Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&show_icons=true?theme=radical)](https://github.com/mariacamposs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacamposs&layout=compact)](https://github.com/mariacamposs/github-readme-stats)
+
+
 
 <!--
 **MariaCamposs/MariaCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
