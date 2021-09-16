@@ -2,7 +2,7 @@
 
 <p><em>Front-end Developer at <a href="https://www.laboratoria.la/"> Laboratoria </a></br>Bachelor of Systems Engineering at UNDC</em></p>
 
-[![Linkedin: MariaCamposS](https://img.shields.io/badge/-SoniaSayago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacamposs/)](https://www.linkedin.com/in/mariacamposs/)
+[![Linkedin: MariaCamposS](https://img.shields.io/badge/-MariaCamposS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacamposs/)](https://www.linkedin.com/in/mariacamposs/)
 
 - 🔭 I’m currently working on JavaScript, HTML, CSS
 - 🌱 I’m currently learning Docker, React, NodeJs
