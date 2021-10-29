@@ -10,7 +10,10 @@
 
 [![Mari's Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCamposs&layout=compact)](https://github.com/MariaCamposs/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCamposs&langs_count=8)](https://github.com/MariaCamposs/github-readme-stats)
 
 
 
