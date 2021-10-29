@@ -10,8 +10,10 @@
 
 [![Mari's Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacamposs&layout=compact&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
-(https://octoprofile.vercel.app/user?id=MariaCamposs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacampss&layout=compact)](https://github.com/mariacampss/github-readme-stats)
+
+
+
 <!--
 **MariaCamposs/MariaCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
