@@ -4,8 +4,8 @@
 
 [![Linkedin: MariaCamposS](https://img.shields.io/badge/-MariaCamposS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacamposs/)](https://www.linkedin.com/in/mariacamposs/)
 
-- 🔭 I’m currently working on JavaScript, HTML, CSS
-- 🌱 I’m currently learning Docker, React, NodeJs
+- 🔭 Actualmente estoy trabajando con JavaScript, HTML, CSS, Angular 12.
+- 🌱 Estoy aprendiendo Docker, React, NodeJs
 - ⚡ Fun fact: plant lover
 
 [![Mari's Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/mariacamposs/github-readme-stats)
