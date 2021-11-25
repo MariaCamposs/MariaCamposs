@@ -8,10 +8,7 @@
 - 🌱 Estoy aprendiendo Docker, React, NodeJs
 - ⚡ Fun fact: plant lover
 
-[![Mari's Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCamposs&count_private=true&show_icons=true&theme=buefy)](https://github.com/MariaCamposs/github-readme-stats)
-
-
-
+[![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCamposs&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/MariaCamposs/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCamposs&langs_count=8)](https://github.com/MariaCamposs/github-readme-stats)
 
